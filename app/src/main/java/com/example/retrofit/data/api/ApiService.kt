@@ -1,5 +1,7 @@
-package com.example.retrofit.services
+package com.example.retrofit.data.api
 
+import com.example.retrofit.data.models.Comments
+import com.example.retrofit.data.models.Post
 import retrofit2.Call
 import retrofit2.http.GET
 import retrofit2.http.Path

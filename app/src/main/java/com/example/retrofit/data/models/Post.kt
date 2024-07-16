@@ -1,4 +1,4 @@
-package com.example.retrofit.services
+package com.example.retrofit.data.models
 
 data class Post(
     val id: Int,
